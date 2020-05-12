@@ -18,5 +18,15 @@ body {
     display: block;
     font-size: 20px;
     text-align: center;
-    margin-right: auto;
+    margin-right: none;
+    margin-left: none;
+}
+
+#education {
+    text-align: right;
+}
+
+p {
+    margin-left: 5em; 
+    margin-right: 5em;
 }
