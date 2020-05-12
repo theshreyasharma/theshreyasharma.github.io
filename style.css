@@ -1,11 +1,12 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 
 #name {
-    text-align: center;
     font-family: 'Open Sans', sans-serif;
     font: 400;
+    margin-bottom: 1.5em;
 }
 
 #mypic {
@@ -15,6 +16,7 @@ body {
 
 #intro {
     display: block;
+    font-size: 20px;
     text-align: center;
     margin-right: auto;
 }
