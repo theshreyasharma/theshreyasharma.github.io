@@ -26,6 +26,10 @@ body {
     text-align: right;
 }
 
+#interests {
+    background-color: white;
+}
+
 p {
     margin-left: 5em; 
     margin-right: 5em;
