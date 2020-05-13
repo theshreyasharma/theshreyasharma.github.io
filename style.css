@@ -10,8 +10,10 @@ body {
 }
 
 #mypic {
-    width: 400px;
-    margin-bottom: auto;
+    width: 24em;
+    margin-bottom: 2em;
+    margin-right: 1em;
+    margin-left: 1em;
 }
 
 #intro {
@@ -33,4 +35,9 @@ body {
 p {
     margin-left: 5em; 
     margin-right: 5em;
+}
+
+a:hover {
+    text-decoration: none;
+    color: darkcyan;
 }

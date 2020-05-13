@@ -1,2 +1,2 @@
 ## Shreya Sharma
-Webpage can be found [here](theshreyasharma.github.io).
+My personal webpage can be found [here](theshreyasharma.github.io).
