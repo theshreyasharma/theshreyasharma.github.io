@@ -28,11 +28,11 @@ body {
     text-align: right;
 }
 
-#summer {
+#education {
     background-color: white;
 }
 
-#projects {
+#interests {
     background-color: white;
 }
 
@@ -44,4 +44,8 @@ p {
 a:hover {
     text-decoration: none;
     color: darkcyan;
+}
+
+#right {
+    text-align: right;
 }
